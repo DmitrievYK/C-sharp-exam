@@ -14,7 +14,9 @@ class Program
 {
     static void Main()
     {
-        string[] inputArray = { "Hello", "2", "world", ":-)", "[e]", "animal" };
+        Console.WriteLine("Введите строки через запятую:");
+        string input = Console.ReadLine();
+        string[] inputArray = input.Split(',');
 
         string[] resultArray = FilterArray(inputArray);
 
