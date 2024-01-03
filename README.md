@@ -17,3 +17,10 @@
 4. Написать программу, решающую поставленную задачу
 5. Использовать контроль версий в работе над этим небольшим проектом (не должно быть так, что всё залито одним коммитом, как минимум этапы 2, 3, и 4 должны быть расположены в разных коммитах)
 ***
+## Для ознакомления с выполнением работы
+
+**Решение задачи [тут](https://github.com/DmitrievYK/C-sharp-exam/blob/main/Program.cs)**
+
+**Схема алгоритма [тут](https://github.com/DmitrievYK/C-sharp-exam/blob/main/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%20FilterArray.pdf)**
+
+**Ознакомиться с README можно [тут](https://github.com/DmitrievYK/C-sharp-exam/blob/main/README.md)**
