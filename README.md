@@ -24,3 +24,5 @@
 **Схема алгоритма [тут](https://github.com/DmitrievYK/C-sharp-exam/blob/main/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%20FilterArray.pdf)**
 
 **Ознакомиться с README можно [тут](https://github.com/DmitrievYK/C-sharp-exam/blob/main/README.md)**
+
+**Количество коммитов [тут](https://github.com/DmitrievYK/C-sharp-exam/commits/main/)**
