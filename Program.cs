@@ -7,6 +7,7 @@
 // [“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
 // [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 // [“Russia”, “Denmark”, “Kazan”] → []
+
 using System;
 
 class Program
@@ -24,7 +25,29 @@ class Program
     }
     static string[] FilterArray(string[] input)
     {
-        return input;
+        int count = 0;
+        // Считаем количество элементов списка не более 3
+        for (int i = 0; i < input.Length; i++)
+        {
+            if (input[i].Length <= 3)
+            {
+                count++;
+            }
+        }
+        // Новый массив с длинной 3
+        string[] result = new string[count];
+        int index = 0;
+
+        //заполнение нового массива
+        for (int i = 0; i < input.Length; i++)
+        {
+            if (input[i].Length <= 3)
+            {
+                result[index] = input[i];
+                index++;
+            }
+        }
+        return result;
 
     }
 }
