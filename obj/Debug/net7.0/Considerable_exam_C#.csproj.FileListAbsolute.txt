@@ -1,0 +1,14 @@
+C:\1\Considerable_exam_C#\bin\Debug\net7.0\Considerable_exam_C#.exe
+C:\1\Considerable_exam_C#\bin\Debug\net7.0\Considerable_exam_C#.deps.json
+C:\1\Considerable_exam_C#\bin\Debug\net7.0\Considerable_exam_C#.runtimeconfig.json
+C:\1\Considerable_exam_C#\bin\Debug\net7.0\Considerable_exam_C#.dll
+C:\1\Considerable_exam_C#\bin\Debug\net7.0\Considerable_exam_C#.pdb
+C:\1\Considerable_exam_C#\obj\Debug\net7.0\Considerable_exam_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\1\Considerable_exam_C#\obj\Debug\net7.0\Considerable_exam_C#.AssemblyInfoInputs.cache
+C:\1\Considerable_exam_C#\obj\Debug\net7.0\Considerable_exam_C#.AssemblyInfo.cs
+C:\1\Considerable_exam_C#\obj\Debug\net7.0\Considerable_exam_C#.csproj.CoreCompileInputs.cache
+C:\1\Considerable_exam_C#\obj\Debug\net7.0\Considerable_exam_C#.dll
+C:\1\Considerable_exam_C#\obj\Debug\net7.0\refint\Considerable_exam_C#.dll
+C:\1\Considerable_exam_C#\obj\Debug\net7.0\Considerable_exam_C#.pdb
+C:\1\Considerable_exam_C#\obj\Debug\net7.0\Considerable_exam_C#.genruntimeconfig.cache
+C:\1\Considerable_exam_C#\obj\Debug\net7.0\ref\Considerable_exam_C#.dll
