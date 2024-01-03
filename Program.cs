@@ -19,7 +19,8 @@ class Program
         string[] inputArray = input.Split(',');
 
         string[] resultArray = FilterArray(inputArray);
-
+        
+        Console.WriteLine("Результат:\t");
         foreach (string item in resultArray)
         {
             Console.WriteLine(item);
